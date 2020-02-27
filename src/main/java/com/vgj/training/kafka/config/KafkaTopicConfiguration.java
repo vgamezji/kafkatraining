@@ -1,4 +1,4 @@
-package com.vgj.training.kafa.config;
+package com.vgj.training.kafka.config;
 
 import java.util.HashMap;
 import java.util.Map;

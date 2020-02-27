@@ -1,4 +1,4 @@
-package com.vgj.training.kafa.producer;
+package com.vgj.training.kafka.producer;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.kafka.core.KafkaTemplate;

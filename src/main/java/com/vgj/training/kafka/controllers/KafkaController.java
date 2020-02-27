@@ -1,10 +1,9 @@
-package com.vgj.training.kafa.controllers;
+package com.vgj.training.kafka.controllers;
 
-import com.vgj.training.kafa.producer.Producer;
+import com.vgj.training.kafka.producer.Producer;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController

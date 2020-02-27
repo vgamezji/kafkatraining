@@ -1,4 +1,4 @@
-package com.vgj.training.kafa.consumer;
+package com.vgj.training.kafka.consumer;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

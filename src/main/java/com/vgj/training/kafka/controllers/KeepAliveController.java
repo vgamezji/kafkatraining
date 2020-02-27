@@ -1,4 +1,4 @@
-package com.vgj.training.kafa.controllers;
+package com.vgj.training.kafka.controllers;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
