@@ -1,4 +1,4 @@
-package com.vgj.training.kafa;
+package com.vgj.training.kafka;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

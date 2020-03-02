@@ -1,0 +1,22 @@
+{
+  "namespace": "com.vgj.training.kafka.avro",
+  "type": "record",
+  "name": "AvroUser",
+  "fields": [
+    {
+      "name": "name",
+      "type": "string",
+      "doc":  "User name"
+    },
+    {
+      "name": "age",
+      "type": "int",
+      "doc":  "User age"
+    },
+    {
+      "name": "address",
+      "type": "string",
+      "doc":  "User address"
+    }
+  ]
+}
